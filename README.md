@@ -11,7 +11,7 @@ entirely on GitHub for free!
 
 ##  Demo
 
-1. [nlsn.cf/1](https://nlsn.cf/1) should link to this repo.
+1. [cdn.bishua.art/1](cdn.bishua.art/1) should link to this repo.
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
