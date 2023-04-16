@@ -17,5 +17,5 @@ entirely on GitHub for free!
    to shorten (including the `http(s)://`) to
    [https://github.com/AireWong/URL-Shortener/issues](https://github.com/AireWong/URL-Shortener/issues).
 
-1. The newly created short url can be accessed via `nlsn.cf/{issue_number}`
+1. The newly created short url can be accessed via `cdn.bishua.art/{issue_number}`
 
